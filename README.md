@@ -10,5 +10,5 @@ I’ve enjoyed working with data throughout my academic career and look forward 
 
 Recognition & Highlights 🏆 
 • Published author in iJournal – ["Trusting in the Digital Age: Deconstructing Our Relationship to Social Media"](https://docs.google.com/document/d/1IjC_HLsujrtYec7OelUr3ii6c5iGjSijpLlgvxxRC04/edit?usp=sharing)
-• Best Communication of Design – Selected by 150+ Informatics students for design excellence 
+ • Best Communication of Design – Selected by 150+ Informatics students for design excellence 
 • Experienced in SQL, Python, Power BI, Tableau, Excel, and Microsoft Azure
